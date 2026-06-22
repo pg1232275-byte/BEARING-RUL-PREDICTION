@@ -1,0 +1,4 @@
+,MAE (files),MAE (hours),R2 Score,CV R2 (mean)
+Random Forest,74.4,12.4,0.8252,-10.957
+SVR,94.9,15.82,0.7788,-12.2768
+KNN,96.2,16.04,0.745,-11.926
